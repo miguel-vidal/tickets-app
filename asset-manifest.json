@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/tickets-app/static/css/main.cbe67141.chunk.css",
+    "main.js": "/tickets-app/static/js/main.b9e83518.chunk.js",
+    "main.js.map": "/tickets-app/static/js/main.b9e83518.chunk.js.map",
+    "runtime-main.js": "/tickets-app/static/js/runtime-main.ac88c2a2.js",
+    "runtime-main.js.map": "/tickets-app/static/js/runtime-main.ac88c2a2.js.map",
+    "static/js/2.ffe2aeb2.chunk.js": "/tickets-app/static/js/2.ffe2aeb2.chunk.js",
+    "static/js/2.ffe2aeb2.chunk.js.map": "/tickets-app/static/js/2.ffe2aeb2.chunk.js.map",
+    "index.html": "/tickets-app/index.html",
+    "precache-manifest.69883e8248cf5f6858bfead6543948c0.js": "/tickets-app/precache-manifest.69883e8248cf5f6858bfead6543948c0.js",
+    "service-worker.js": "/tickets-app/service-worker.js",
+    "static/css/main.cbe67141.chunk.css.map": "/tickets-app/static/css/main.cbe67141.chunk.css.map",
+    "static/js/2.ffe2aeb2.chunk.js.LICENSE.txt": "/tickets-app/static/js/2.ffe2aeb2.chunk.js.LICENSE.txt",
+    "static/media/cine.png": "/tickets-app/static/media/cine.1cb1d4e8.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ac88c2a2.js",
+    "static/js/2.ffe2aeb2.chunk.js",
+    "static/css/main.cbe67141.chunk.css",
+    "static/js/main.b9e83518.chunk.js"
+  ]
+}
